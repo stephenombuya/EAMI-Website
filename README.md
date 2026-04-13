@@ -1,6 +1,17 @@
 # **East Africa Mineral Insights (EAMI)**
 Welcome to the East Africa Mineral Insights (EAMI) GitHub repository! This is a full-stack, multi-page website showcasing the vast mineral resources of Kenya and East Africa.
 
+<div>
+
+  <!-- Repository Analytics -->
+![GitHub repo size](https://img.shields.io/github/repo-size/stephenombuya/EAMI-Website)
+![GitHub language count](https://img.shields.io/github/languages/count/stephenombuya/EAMI-Website)
+![GitHub top language](https://img.shields.io/github/languages/top/stephenombuya/EAMI-Website)
+![GitHub last commit](https://img.shields.io/github/last-commit/stephenombuya/EAMI-Website)
+![GitHub contributors](https://img.shields.io/github/contributors/stephenombuya/EAMI-Website)
+
+</div>
+
 ## **Table of Contents**
 - Project Description
 - Features
@@ -111,4 +122,3 @@ git push origin feature-name
 
 ## **License**
 This project is licensed under the GNU License.
-
